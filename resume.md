@@ -19,6 +19,7 @@ Degree Awarded
 
 `2012`
 Name of Award, Organization 
+LD honorarium
 
 ## Publications
 
